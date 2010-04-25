@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'spec'
+require 'rspec/core'
 
 ENV['TM_SUPPORT_PATH'] = '/Applications/TextMate.app/Contents/SharedSupport/Support'
 
